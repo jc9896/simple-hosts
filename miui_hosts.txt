@@ -1,6 +1,7 @@
-# Source 1: https://forum.xda-developers.com/redmi-note-3/how-to/adaway-blocking-miui-calling-home-t3516119
-# Source 2: https://github.com/adodo1/miui_hosts/blob/master/hosts
-# Source 3: https://github.com/thewan056/MIUI-hosts-list/blob/master/hosts.txt
+# Sources:
+# https://forum.xda-developers.com/redmi-note-3/how-to/adaway-blocking-miui-calling-home-t3516119
+# https://github.com/adodo1/miui_hosts/blob/master/hosts
+# https://github.com/thewan056/MIUI-hosts-list/blob/master/hosts.txt
 
 127.0.0.1 localhost
 ::1 localhost
@@ -12,6 +13,11 @@
 0.0.0.0 tracking.miui.com
 0.0.0.0 r.browser.miui.com
 0.0.0.0 adv.sec.intnl.miui.com
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 fcanr.tracking.miui.com
+
 
 # xiaomi.com
 0.0.0.0 ad.xiaomi.com
@@ -24,6 +30,16 @@
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 t4.market.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 e.ad.xiaomi.com
+0.0.0.0 log.ad.xiaomi.com
+0.0.0.0 track.ad.xiaomi.com
+0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 api.admob.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 zeus.ad.intl.xiaomi.com
 
 # xiaomi.net
 0.0.0.0 app.chat.xiaomi.net
