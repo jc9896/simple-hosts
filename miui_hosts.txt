@@ -36,7 +36,6 @@
 0.0.0.0 t4.market.xiaomi.com
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 track.ad.xiaomi.com
-0.0.0.0 weatherapi.market.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 
