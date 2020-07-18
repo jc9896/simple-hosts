@@ -28,6 +28,7 @@
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 e.ad.xiaomi.com
 0.0.0.0 game.xiaomi.com
+0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 notice.game.xiaomi.com
 0.0.0.0 o2o.api.xiaomi.com
