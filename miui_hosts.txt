@@ -8,6 +8,7 @@
 ::1 localhost
 
 # miui.com
+0.0.0.0 adv.sec.miui.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 api.browser.miui.com
 0.0.0.0 api.vip.miui.com
@@ -17,8 +18,12 @@
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com
 
+# mi.com
+ad.mi.com
+
 # xiaomi.com
 0.0.0.0 ad.xiaomi.com
+0.0.0.0 ad1.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.admob.xiaomi.com
