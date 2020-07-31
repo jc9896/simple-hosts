@@ -2,7 +2,7 @@
 # https://forum.xda-developers.com/redmi-note-3/how-to/adaway-blocking-miui-calling-home-t3516119
 # https://github.com/adodo1/miui_hosts/blob/master/hosts
 # https://github.com/thewan056/MIUI-hosts-list/blob/master/hosts.txt
-# Last updated: 19/7/2020
+# Last updated: 1/8/2020
 
 127.0.0.1 localhost
 ::1 localhost
@@ -30,11 +30,11 @@ ad.mi.com
 0.0.0.0 api.admob.xiaomi.com
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 cdn.ad.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.us.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 e.ad.xiaomi.com
 0.0.0.0 game.xiaomi.com
 0.0.0.0 globalapi.ad.xiaomi.com
