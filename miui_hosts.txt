@@ -15,8 +15,8 @@
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 r.browser.miui.com
-0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.intl.miui.com
 
 # mi.com
 0.0.0.0 ad.mi.com
@@ -54,24 +54,3 @@
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 pdc.micloud.xiaomi.net
 0.0.0.0 sec-cdn.static.xiaomi.net
-
-# others
-0.0.0.0 als.baidu.com
-0.0.0.0 chinaunicom.com
-0.0.0.0 downapp.baidu.com
-0.0.0.0 ms.vipstatic.com
-0.0.0.0 resolver.gslb.mi-idc.com
-0.0.0.0 static.pay.baidu.com
-0.0.0.0 tb1.bdstatic.com
-
-# misc
-0.0.0.0 42.62.94.93
-0.0.0.0 42.62.94.127
-0.0.0.0 42.62.94.152
-0.0.0.0 114.54.23.44
-0.0.0.0 114.54.23.8
-0.0.0.0 114.54.23.5
-0.0.0.0 120.134.33.89
-0.0.0.0 220.181.47.186
-0.0.0.0 223.202.68.86
-0.0.0.0 223.202.68.93
