@@ -5,7 +5,7 @@ This list keeps certain domains un-blacklisted to ensure that system updates, Mi
 (This list may not be as useful on a custom MIUI ROM such as xiaomi.eu)
 
 # how to use
-Add https://raw.githubusercontent.com/jc9896/simple-miui-hosts/master/miui_hosts.txt into your content blocker's hosts sources.
+Add https://raw.githubusercontent.com/jc9896/simple-miui-hosts/simple-miui-hosts/miui_hosts.txt into your content blocker's hosts sources.
 
 # sources
 https://forum.xda-developers.com/redmi-note-3/how-to/adaway-blocking-miui-calling-home-t3516119
