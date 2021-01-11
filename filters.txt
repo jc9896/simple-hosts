@@ -1,0 +1,11 @@
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+https://github.com/reek/anti-adblock-killer/raw/master/anti-adblock-killer-filters.txt
