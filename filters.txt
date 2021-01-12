@@ -8,10 +8,9 @@ https://filters.adtidy.org/extension/chromium/filters/14.txt
 https://filters.adtidy.org/extension/chromium/filters/2_without_easylist.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
 https://filters.adtidy.org/extension/chromium/filters/4.txt
-https://easylist.to/easylist/easylist.txt
-https://easylist.to/easylist/easyprivacy.txt
-https://secure.fanboy.co.nz/fanboy-annoyance.txt
+https://secure.fanboy.co.nz/r/fanboy-ultimate.txt
 https://secure.fanboy.co.nz/fanboy-antifacebook.txt
 https://pgl.yoyo.org/adservers/serverlist.php
 https://someonewhocares.org/hosts/hosts
 https://github.com/reek/anti-adblock-killer/raw/master/anti-adblock-killer-filters.txt
+https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
