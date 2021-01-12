@@ -1,3 +1,5 @@
+Most of these lists are included by default in uBlock Origin and are part of my usual configuration.
+
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
@@ -5,7 +7,8 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
 https://filters.adtidy.org/extension/chromium/filters/14.txt
-https://filters.adtidy.org/extension/chromium/filters/2_without_easylist.txt
+https://filters.adtidy.org/extension/chromium/filters/2.txt
+https://filters.adtidy.org/extension/chromium/filters/3.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
 https://filters.adtidy.org/extension/chromium/filters/4.txt
 https://secure.fanboy.co.nz/r/fanboy-ultimate.txt
@@ -14,3 +17,4 @@ https://pgl.yoyo.org/adservers/serverlist.php
 https://someonewhocares.org/hosts/hosts
 https://github.com/reek/anti-adblock-killer/raw/master/anti-adblock-killer-filters.txt
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
+https://urlhaus.abuse.ch/downloads/text/
