@@ -8,7 +8,7 @@ You need Bromite v78.0.3904.130 or higher.
 
 Add this url in **Settings > AdBlock settings > Filters URL:**
 
-```https://github.com/jc9896/simple-hosts/blob/bromite-filters/filters.dat```
+```https://raw.githubusercontent.com/jc9896/simple-hosts/bromite-filters/filters.dat```
 
 # sources
 Sources are in filters.txt
