@@ -11,4 +11,4 @@ Add this url in **Settings > AdBlock settings > Filters URL:**
 ```https://raw.githubusercontent.com/jc9896/simple-hosts/bromite-filters/filters.dat```
 
 # sources
-Sources are in filters.txt
+Sources are in [filters.txt](https://github.com/jc9896/simple-hosts/blob/bromite-filters/filters.txt)
